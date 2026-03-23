@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ut_SN7474_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ut_SN7474" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="457.553 ns"></ZoomEndTime>
+      <Cursor1Time time="10.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="188"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="25" />
+   <wvobject fp_name="/ut_SN7474/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/ffclk_count" type="array">
+      <obj_property name="ElementShortName">ffclk_count[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ffclk_count[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/marker" type="logic">
+      <obj_property name="ElementShortName">marker</obj_property>
+      <obj_property name="ObjectShortName">marker</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/clear1b" type="logic">
+      <obj_property name="ElementShortName">clear1b</obj_property>
+      <obj_property name="ObjectShortName">clear1b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/preset1b" type="logic">
+      <obj_property name="ElementShortName">preset1b</obj_property>
+      <obj_property name="ObjectShortName">preset1b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/data1" type="logic">
+      <obj_property name="ElementShortName">data1</obj_property>
+      <obj_property name="ObjectShortName">data1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/clock1" type="logic">
+      <obj_property name="ElementShortName">clock1</obj_property>
+      <obj_property name="ObjectShortName">clock1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q1_out" type="logic">
+      <obj_property name="ElementShortName">q1_out</obj_property>
+      <obj_property name="ObjectShortName">q1_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q1b_out" type="logic">
+      <obj_property name="ElementShortName">q1b_out</obj_property>
+      <obj_property name="ObjectShortName">q1b_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q1_ref" type="logic">
+      <obj_property name="ElementShortName">q1_ref</obj_property>
+      <obj_property name="ObjectShortName">q1_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q1b_ref" type="logic">
+      <obj_property name="ElementShortName">q1b_ref</obj_property>
+      <obj_property name="ObjectShortName">q1b_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/clear2b" type="logic">
+      <obj_property name="ElementShortName">clear2b</obj_property>
+      <obj_property name="ObjectShortName">clear2b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/preset2b" type="logic">
+      <obj_property name="ElementShortName">preset2b</obj_property>
+      <obj_property name="ObjectShortName">preset2b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/data2" type="logic">
+      <obj_property name="ElementShortName">data2</obj_property>
+      <obj_property name="ObjectShortName">data2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/clock2" type="logic">
+      <obj_property name="ElementShortName">clock2</obj_property>
+      <obj_property name="ObjectShortName">clock2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q2_out" type="logic">
+      <obj_property name="ElementShortName">q2_out</obj_property>
+      <obj_property name="ObjectShortName">q2_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q2b_out" type="logic">
+      <obj_property name="ElementShortName">q2b_out</obj_property>
+      <obj_property name="ObjectShortName">q2b_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q2_ref" type="logic">
+      <obj_property name="ElementShortName">q2_ref</obj_property>
+      <obj_property name="ObjectShortName">q2_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/q2b_ref" type="logic">
+      <obj_property name="ElementShortName">q2b_ref</obj_property>
+      <obj_property name="ObjectShortName">q2b_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/compare_1q" type="logic">
+      <obj_property name="ElementShortName">compare_1q</obj_property>
+      <obj_property name="ObjectShortName">compare_1q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/compare_1qb" type="logic">
+      <obj_property name="ElementShortName">compare_1qb</obj_property>
+      <obj_property name="ObjectShortName">compare_1qb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/compare_2q" type="logic">
+      <obj_property name="ElementShortName">compare_2q</obj_property>
+      <obj_property name="ObjectShortName">compare_2q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/compare_2qb" type="logic">
+      <obj_property name="ElementShortName">compare_2qb</obj_property>
+      <obj_property name="ObjectShortName">compare_2qb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7474/latched_error" type="logic">
+      <obj_property name="ElementShortName">latched_error</obj_property>
+      <obj_property name="ObjectShortName">latched_error</obj_property>
+   </wvobject>
+</wave_config>

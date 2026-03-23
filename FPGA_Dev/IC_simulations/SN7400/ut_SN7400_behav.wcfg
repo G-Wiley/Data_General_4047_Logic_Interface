@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ut_SN7400_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ut_SN7400" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="10,650.001 ns"></ZoomEndTime>
+      <Cursor1Time time="20.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="165"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/ut_SN7400/inputscount" type="array">
+      <obj_property name="ElementShortName">inputscount[7:0]</obj_property>
+      <obj_property name="ObjectShortName">inputscount[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g1A" type="logic">
+      <obj_property name="ElementShortName">g1A</obj_property>
+      <obj_property name="ObjectShortName">g1A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g1B" type="logic">
+      <obj_property name="ElementShortName">g1B</obj_property>
+      <obj_property name="ObjectShortName">g1B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g2A" type="logic">
+      <obj_property name="ElementShortName">g2A</obj_property>
+      <obj_property name="ObjectShortName">g2A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g2B" type="logic">
+      <obj_property name="ElementShortName">g2B</obj_property>
+      <obj_property name="ObjectShortName">g2B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g3A" type="logic">
+      <obj_property name="ElementShortName">g3A</obj_property>
+      <obj_property name="ObjectShortName">g3A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g3B" type="logic">
+      <obj_property name="ElementShortName">g3B</obj_property>
+      <obj_property name="ObjectShortName">g3B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g4A" type="logic">
+      <obj_property name="ElementShortName">g4A</obj_property>
+      <obj_property name="ObjectShortName">g4A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/g4B" type="logic">
+      <obj_property name="ElementShortName">g4B</obj_property>
+      <obj_property name="ObjectShortName">g4B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/compare_1Y" type="logic">
+      <obj_property name="ElementShortName">compare_1Y</obj_property>
+      <obj_property name="ObjectShortName">compare_1Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/compare_2Y" type="logic">
+      <obj_property name="ElementShortName">compare_2Y</obj_property>
+      <obj_property name="ObjectShortName">compare_2Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/compare_3Y" type="logic">
+      <obj_property name="ElementShortName">compare_3Y</obj_property>
+      <obj_property name="ObjectShortName">compare_3Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/compare_4Y" type="logic">
+      <obj_property name="ElementShortName">compare_4Y</obj_property>
+      <obj_property name="ObjectShortName">compare_4Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7400/latched_error" type="logic">
+      <obj_property name="ElementShortName">latched_error</obj_property>
+      <obj_property name="ObjectShortName">latched_error</obj_property>
+   </wvobject>
+</wave_config>

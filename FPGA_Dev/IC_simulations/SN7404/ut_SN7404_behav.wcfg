@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ut_SN7404_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ut_SN7404" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,310.584 ns"></ZoomEndTime>
+      <Cursor1Time time="1,341.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="165"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="22" />
+   <wvobject fp_name="/ut_SN7404/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/inputscount" type="array">
+      <obj_property name="ElementShortName">inputscount[5:0]</obj_property>
+      <obj_property name="ObjectShortName">inputscount[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/in1A" type="logic">
+      <obj_property name="ElementShortName">in1A</obj_property>
+      <obj_property name="ObjectShortName">in1A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/in2A" type="logic">
+      <obj_property name="ElementShortName">in2A</obj_property>
+      <obj_property name="ObjectShortName">in2A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/in3A" type="logic">
+      <obj_property name="ElementShortName">in3A</obj_property>
+      <obj_property name="ObjectShortName">in3A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/in4A" type="logic">
+      <obj_property name="ElementShortName">in4A</obj_property>
+      <obj_property name="ObjectShortName">in4A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/in5A" type="logic">
+      <obj_property name="ElementShortName">in5A</obj_property>
+      <obj_property name="ObjectShortName">in5A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/in6A" type="logic">
+      <obj_property name="ElementShortName">in6A</obj_property>
+      <obj_property name="ObjectShortName">in6A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/out1Y" type="logic">
+      <obj_property name="ElementShortName">out1Y</obj_property>
+      <obj_property name="ObjectShortName">out1Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/out2Y" type="logic">
+      <obj_property name="ElementShortName">out2Y</obj_property>
+      <obj_property name="ObjectShortName">out2Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/out3Y" type="logic">
+      <obj_property name="ElementShortName">out3Y</obj_property>
+      <obj_property name="ObjectShortName">out3Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/out4Y" type="logic">
+      <obj_property name="ElementShortName">out4Y</obj_property>
+      <obj_property name="ObjectShortName">out4Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/out5Y" type="logic">
+      <obj_property name="ElementShortName">out5Y</obj_property>
+      <obj_property name="ObjectShortName">out5Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/out6Y" type="logic">
+      <obj_property name="ElementShortName">out6Y</obj_property>
+      <obj_property name="ObjectShortName">out6Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/compare_1Y" type="logic">
+      <obj_property name="ElementShortName">compare_1Y</obj_property>
+      <obj_property name="ObjectShortName">compare_1Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/compare_2Y" type="logic">
+      <obj_property name="ElementShortName">compare_2Y</obj_property>
+      <obj_property name="ObjectShortName">compare_2Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/compare_3Y" type="logic">
+      <obj_property name="ElementShortName">compare_3Y</obj_property>
+      <obj_property name="ObjectShortName">compare_3Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/compare_4Y" type="logic">
+      <obj_property name="ElementShortName">compare_4Y</obj_property>
+      <obj_property name="ObjectShortName">compare_4Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/compare_5Y" type="logic">
+      <obj_property name="ElementShortName">compare_5Y</obj_property>
+      <obj_property name="ObjectShortName">compare_5Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/compare_6Y" type="logic">
+      <obj_property name="ElementShortName">compare_6Y</obj_property>
+      <obj_property name="ObjectShortName">compare_6Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7404/latched_error" type="logic">
+      <obj_property name="ElementShortName">latched_error</obj_property>
+      <obj_property name="ObjectShortName">latched_error</obj_property>
+   </wvobject>
+</wave_config>

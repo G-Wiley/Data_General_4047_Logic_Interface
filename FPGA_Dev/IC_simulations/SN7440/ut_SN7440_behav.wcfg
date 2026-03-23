@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ut_SN7440_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ut_SN7440" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="10,770.001 ns"></ZoomEndTime>
+      <Cursor1Time time="20.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="141"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/ut_SN7440/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/inputscount" type="array">
+      <obj_property name="ElementShortName">inputscount[7:0]</obj_property>
+      <obj_property name="ObjectShortName">inputscount[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g1A" type="logic">
+      <obj_property name="ElementShortName">g1A</obj_property>
+      <obj_property name="ObjectShortName">g1A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g1B" type="logic">
+      <obj_property name="ElementShortName">g1B</obj_property>
+      <obj_property name="ObjectShortName">g1B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g1C" type="logic">
+      <obj_property name="ElementShortName">g1C</obj_property>
+      <obj_property name="ObjectShortName">g1C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g1D" type="logic">
+      <obj_property name="ElementShortName">g1D</obj_property>
+      <obj_property name="ObjectShortName">g1D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g2A" type="logic">
+      <obj_property name="ElementShortName">g2A</obj_property>
+      <obj_property name="ObjectShortName">g2A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g2B" type="logic">
+      <obj_property name="ElementShortName">g2B</obj_property>
+      <obj_property name="ObjectShortName">g2B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g2C" type="logic">
+      <obj_property name="ElementShortName">g2C</obj_property>
+      <obj_property name="ObjectShortName">g2C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g2D" type="logic">
+      <obj_property name="ElementShortName">g2D</obj_property>
+      <obj_property name="ObjectShortName">g2D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g1Y" type="logic">
+      <obj_property name="ElementShortName">g1Y</obj_property>
+      <obj_property name="ObjectShortName">g1Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/g2Y" type="logic">
+      <obj_property name="ElementShortName">g2Y</obj_property>
+      <obj_property name="ObjectShortName">g2Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/compare_1Y" type="logic">
+      <obj_property name="ElementShortName">compare_1Y</obj_property>
+      <obj_property name="ObjectShortName">compare_1Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/compare_2Y" type="logic">
+      <obj_property name="ElementShortName">compare_2Y</obj_property>
+      <obj_property name="ObjectShortName">compare_2Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ut_SN7440/latched_error" type="logic">
+      <obj_property name="ElementShortName">latched_error</obj_property>
+      <obj_property name="ObjectShortName">latched_error</obj_property>
+   </wvobject>
+</wave_config>
